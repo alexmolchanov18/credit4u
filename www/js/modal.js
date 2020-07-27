@@ -1,0 +1,1 @@
+jQuery(function(){jQuery(".close_modal").click(function(){jQuery(".overlay").fadeOut(),jQuery(".overlay").remove()}),jQuery("html").mouseleave(function(e){e.clientY<=0&&jQuery(".overlay").fadeIn()}),setTimeout(function(){jQuery(".overlay").fadeIn()},8e3)});

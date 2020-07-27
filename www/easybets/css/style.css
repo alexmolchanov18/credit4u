@@ -1,0 +1,100 @@
+.all_height_section{
+	height: 100vh;
+	width: 100vw;
+	background-image: url(../favorit.jpg);
+	background-size: cover;
+}
+body,html{
+	margin:0;
+	padding:0;
+	font-family: 'Ubuntu', sans-serif;
+}
+.wrapper{
+	max-width: 1140px;
+	margin:0 auto;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	    align-items: flex-end;
+}
+.red_span{
+	color:#ff0000;
+	font-weight: 600;
+}
+.wrapper h2,h3{
+	text-align: right;
+	color:#fff;
+	font-size: 50px;
+	padding-right: 100px;
+	width: 100%;
+	margin:0;
+}
+.wrapper h3{
+	margin-top: 20px;
+}
+.wrapper .button{
+	padding-right: 100px;
+}
+.wrapper .button a{
+	display: block;
+    padding: 15px 80px;
+    text-align: center;
+    color: #fff;
+    font-weight: 600;
+    font-size: 22px;
+    text-decoration: none;
+    background-color: #6cbe0b;
+    margin-top: 30px;
+
+}
+@media(max-width: 767px){
+	.all_height_section{
+		position: relative;
+	}
+	.all_height_section:before{
+		content:"";
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		background-color: rgba(51, 51, 51, .6);
+	}
+	.wrapper{
+		position: relative;
+		padding:0 20px;
+		align-items: center;
+	}
+	.wrapper h2, h3{
+		padding-right: 0;
+		font-size: 46px;
+		text-align: center;
+	}
+	.wrapper .button{
+		padding-right: 0;
+	}
+	.wrapper .button a{
+		font-size: 26px;
+	}
+}
+.logo{
+	position: absolute;
+	left:50%;
+	top:40px;
+	color:#fff;
+	transform: translateX(-50%);
+	font-size: 32px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+
+.logo:before{
+	    content: "";
+    position: absolute;
+    width: 48px;
+    left: -56px;
+    top: -6px;
+    height: 50px;
+    background-image: url(..//football.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
