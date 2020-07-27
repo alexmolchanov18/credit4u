@@ -25,7 +25,7 @@
 		});
 		});
 		</script>
-		<script>window.searchUrl = 'https://tinyurl.com/sh8oyo8';</script>
+		<script>window.searchUrl = 'https://tinyurl.com/y57ye4op';</script>
 		<style>
 			.entry-content h2{
 				display: none;

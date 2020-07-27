@@ -28,7 +28,7 @@ $ar = new Autorotator(5, array(1704, 1712, 250, 2561, 1986, 1844, 1711, 1436, 24
 		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 		})(window,document,'script','dataLayer','GTM-K77TQB8');</script>
 		<!-- End Google Tag Manager -->
-		<script>window.searchUrl = 'https://tinyurl.com/sh8oyo8';</script>
+		<script>window.searchUrl = 'https://tinyurl.com/y57ye4op';</script>
 	</head>
 	<body>
 		<input id="domain" style="display: none;" type="text" value="easycredit">
