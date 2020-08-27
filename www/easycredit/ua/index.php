@@ -28,7 +28,7 @@ $ar = new Autorotator(5, array(1704, 1712, 250, 2561, 1986, 1844, 1711, 1436, 24
 		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 		})(window,document,'script','dataLayer','GTM-K77TQB8');</script>
 		<!-- End Google Tag Manager -->
-		<script>window.searchUrl = 'https://tinyurl.com/y57ye4op';</script>
+		<script>window.searchUrl = 'https://tinyurl.com/yywy6gdb';</script>
 	</head>
 	<body>
 		<input id="domain" style="display: none;" type="text" value="easycredit">
@@ -47,7 +47,275 @@ $ar = new Autorotator(5, array(1704, 1712, 250, 2561, 1986, 1844, 1711, 1436, 24
 		</header>
 		<main>
 			<div class="entry-content">
-				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1509?aid=63223" class="offer green <?php $ar->displayHideClass(1509);?>">
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/2184?aid=63223" class="offer yellow ">
+					<div class="offer_logo"><img src="/img/zecredit.png" alt=""></div>
+					<div class="offer_info_wrap">
+						<div class="offer_info">
+							<div class="offer_info_title">Сума:</div>
+							<div class="offer_info_description">12 000 грн.</div>
+						</div>
+						<div class="offer_info">
+							<div class="offer_info_title">Ставка:</div>
+							<div class="offer_info_description">0,01%</div>
+						</div>
+					</div>
+					<div class="details_block">
+						<ul>
+							<li><img src="/img/dollar.svg" alt="">На картку</li>
+							<li><img src="/img/clock.svg" alt="">15 хв.</li>
+						</ul>
+					</div>
+					<div class="offer_button">Отримати Гроші</div>
+				</a>
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/2514?aid=63223" class="offer yellow ">
+					<div class="promo_offer_block">Рекомендуємо!</div>
+					<div class="offer_logo"><img style="width: 180px;" src="/img/forza.png" alt=""></div>
+					<div class="offer_info_wrap">
+						<div class="offer_info">
+							<div class="offer_info_title">Сума:</div>
+							<div class="offer_info_description">15 000 грн.</div>
+						</div>
+						<div class="offer_info">
+							<div class="offer_info_title">Ставка:</div>
+							<div class="offer_info_description">0,01%</div>
+						</div>
+					</div>
+					<div class="details_block">
+						<ul>
+							<li><img src="/img/dollar.svg" alt="">На картку</li>
+							<li><img src="/img/clock.svg" alt="">5 хв.</li>
+						</ul>
+					</div>
+					<div class="offer_button">Отримати Гроші</div>
+				</a>
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1272?aid=63223" class="offer yellow ">
+					<div class="offer_logo"><img src="/img/schvidko.jpeg" alt=""></div>
+					<div class="offer_info_wrap">
+						<div class="offer_info">
+							<div class="offer_info_title">Сума:</div>
+							<div class="offer_info_description">12 000 грн.</div>
+						</div>
+						<div class="offer_info">
+							<div class="offer_info_title">Ставка:</div>
+							<div class="offer_info_description">0,01%</div>
+						</div>
+					</div>
+					<div class="details_block">
+						<ul>
+							<li><img src="/img/dollar.svg" alt="">На картку</li>
+							<li><img src="/img/clock.svg" alt="">15 хв.</li>
+						</ul>
+					</div>
+					<div class="offer_button">Отримати Гроші</div>
+				</a>
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1706?aid=63223" class="offer purple ">
+					<div class="offer_logo"><img src="/img/mywallet.jpg" alt=""></div>
+					<div class="offer_info_wrap">
+						<div class="offer_info">
+							<div class="offer_info_title">Сума:</div>
+							<div class="offer_info_description">20 000 грн.</div>
+						</div>
+						<div class="offer_info">
+							<div class="offer_info_title">Ставка:</div>
+							<div class="offer_info_description">0,01%</div>
+						</div>
+					</div>
+					<div class="details_block">
+						<ul>
+							<li><img src="/img/dollar.svg" alt="">На картку</li>
+							<li><img src="/img/clock.svg" alt="">15 хв.</li>
+						</ul>
+					</div>
+					<div class="offer_button">Отримати Гроші</div>
+				</a>
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1986?aid=63223" class="offer red ">
+					<div class="promo_offer_block">0% на 30 дней!</div>
+					<div class="offer_logo"><img src="/img/CCLoan.png" alt=""></div>
+					<div class="offer_info_wrap">
+						<div class="offer_info">
+							<div class="offer_info_title">Сума:</div>
+							<div class="offer_info_description">20 000 грн.</div>
+						</div>
+						<div class="offer_info">
+							<div class="offer_info_title">Ставка:</div>
+							<div class="offer_info_description">0%</div>
+						</div>
+					</div>
+					<div class="details_block">
+						<ul>
+							<li><img src="/img/dollar.svg" alt="">На картку / Наличка</li>
+							<li><img src="/img/clock.svg" alt="">20 хв.</li>
+						</ul>
+					</div>
+					<div class="offer_button">Отримати Гроші</div>
+				</a>
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1711?aid=63223" class="offer yellow ">
+					<div class="offer_logo"><img src="/img/e-groshi.png" alt=""></div>
+					<div class="offer_info_wrap">
+						<div class="offer_info">
+							<div class="offer_info_title">Сума:</div>
+							<div class="offer_info_description">7 000 грн.</div>
+						</div>
+						<div class="offer_info">
+							<div class="offer_info_title">Ставка:</div>
+							<div class="offer_info_description">0%</div>
+						</div>
+					</div>
+					<div class="details_block">
+						<ul>
+							<li><img src="/img/dollar.svg" alt="">На картку</li>
+							<li><img src="/img/clock.svg" alt="">2 хв.</li>
+						</ul>
+					</div>
+					<div class="offer_button">Отримати Гроші</div>
+				</a>
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/2099?aid=63223" class="offer red ">
+					<div class="promo_offer_block">0% на 30 дней!</div>
+					<div class="offer_logo"><img src="/img/credit7.png" alt=""></div>
+					<div class="offer_info_wrap">
+						<div class="offer_info">
+							<div class="offer_info_title">Сума:</div>
+							<div class="offer_info_description">10 000 грн.</div>
+						</div>
+						<div class="offer_info">
+							<div class="offer_info_title">Ставка:</div>
+							<div class="offer_info_description">0%</div>
+						</div>
+					</div>
+					<div class="details_block">
+						<ul>
+							<li><img src="/img/dollar.svg" alt="">На картку / Наличка</li>
+							<li><img src="/img/clock.svg" alt="">20 хв.</li>
+						</ul>
+					</div>
+					<div class="offer_button">Отримати Гроші</div>
+				</a>
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/2217?aid=63223" class="offer red ">
+					<div class="promo_offer_block">Рекомендуємо!</div>
+					<div class="offer_logo"><img src="/img/money4u.png" alt=""></div>
+					<div class="offer_info_wrap">
+						<div class="offer_info">
+							<div class="offer_info_title">Сума:</div>
+							<div class="offer_info_description">12 000 грн.</div>
+						</div>
+						<div class="offer_info">
+							<div class="offer_info_title">Ставка:</div>
+							<div class="offer_info_description">0%</div>
+						</div>
+					</div>
+					<div class="details_block">
+						<ul>
+							<li><img src="/img/dollar.svg" alt="">На картку</li>
+							<li><img src="/img/clock.svg" alt="">10 хв.</li>
+						</ul>
+					</div>
+					<div class="offer_button">Отримати Гроші</div>
+				</a>
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1928?aid=63223" class="offer green ">
+					<div class="offer_logo">
+						<img src="/img/coshelek.png" alt="">
+						
+					</div>
+					<div class="offer_info_wrap">
+						<div class="offer_info">
+							<div class="offer_info_title">Сума:</div>
+							<div class="offer_info_description">6 000 грн.</div>
+						</div>
+						<div class="offer_info">
+							<div class="offer_info_title">Ставка:</div>
+							<div class="offer_info_description">0.01%</div>
+						</div>
+					</div>
+					<div class="details_block">
+						<ul>
+							<li><img src="/img/dollar.svg" alt="">На картку</li>
+							<li><img src="/img/clock.svg" alt="">15 хв.</li>
+						</ul>
+					</div>
+					<div class="offer_button">Отримати Гроші</div>
+				</a>
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1914?aid=63223" class="offer yellow ">
+					<div class="offer_logo"><img src="/img/monetka.svg" alt=""></div>
+					<div class="offer_info_wrap">
+						<div class="offer_info">
+							<div class="offer_info_title">Сума:</div>
+							<div class="offer_info_description">10 000 грн.</div>
+						</div>
+						<div class="offer_info">
+							<div class="offer_info_title">Ставка:</div>
+							<div class="offer_info_description">0%</div>
+						</div>
+					</div>
+					<div class="details_block">
+						<ul>
+							<li><img src="/img/dollar.svg" alt="">На картку</li>
+							<li><img src="/img/clock.svg" alt="">2 хв.</li>
+						</ul>
+					</div>
+					<div class="offer_button">Отримати Гроші</div>
+				</a>
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1261?aid=63223" class="offer purple ">
+					<div class="offer_logo"><img src="/img/mycredit.svg" alt=""></div>
+					<div class="offer_info_wrap">
+						<div class="offer_info">
+							<div class="offer_info_title">Сума:</div>
+							<div class="offer_info_description">20 000 грн.</div>
+						</div>
+						<div class="offer_info">
+							<div class="offer_info_title">Ставка:</div>
+							<div class="offer_info_description">0,01%</div>
+						</div>
+					</div>
+					<div class="details_block">
+						<ul>
+							<li><img src="/img/dollar.svg" alt="">На картку</li>
+							<li><img src="/img/clock.svg" alt="">15 хв.</li>
+						</ul>
+					</div>
+					<div class="offer_button">Отримати Гроші</div>
+				</a>
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1960?aid=63223" class="offer yellow ">
+					<div class="offer_logo"><img src="/img/gofingo.png" alt=""></div>
+					<div class="offer_info_wrap">
+						<div class="offer_info">
+							<div class="offer_info_title">Сума:</div>
+							<div class="offer_info_description">15 000 грн.</div>
+						</div>
+						<div class="offer_info">
+							<div class="offer_info_title">Ставка:</div>
+							<div class="offer_info_description">0%</div>
+						</div>
+					</div>
+					<div class="details_block">
+						<ul>
+							<li><img src="/img/dollar.svg" alt="">На картку</li>
+							<li><img src="/img/clock.svg" alt="">2 хв.</li>
+						</ul>
+					</div>
+					<div class="offer_button">Отримати Гроші</div>
+				</a>
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1436?aid=63223" class="offer yellow ">
+					<div class="promo_offer_block">Рекомендуємо!</div>
+					<div class="offer_logo"><img style="width: 180px;" src="/img/miloan.svg" alt=""></div>
+					<div class="offer_info_wrap">
+						<div class="offer_info">
+							<div class="offer_info_title">Сума:</div>
+							<div class="offer_info_description">15 000 грн.</div>
+						</div>
+						<div class="offer_info">
+							<div class="offer_info_title">Ставка:</div>
+							<div class="offer_info_description">0,01%</div>
+						</div>
+					</div>
+					<div class="details_block">
+						<ul>
+							<li><img src="/img/dollar.svg" alt="">На картку</li>
+							<li><img src="/img/clock.svg" alt="">5 хв.</li>
+						</ul>
+					</div>
+					<div class="offer_button">Отримати Гроші</div>
+				</a>
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1509?aid=63223" class="offer green ">
 					<div class="offer_logo">
 						<img src="/img/alexcredit.png" alt="">
 						
@@ -70,50 +338,29 @@ $ar = new Autorotator(5, array(1704, 1712, 250, 2561, 1986, 1844, 1711, 1436, 24
 					</div>
 					<div class="offer_button">Отримати Гроші</div>
 				</a>
-				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1986?aid=63223" class="offer red <?php $ar->displayHideClass(1986);?>">
-					<div class="promo_offer_block">0% на 30 дней!</div>
-					<div class="offer_logo"><img src="/img/CCLoan.png" alt=""></div>
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1844?aid=63223" class="offer yellow ">
+					<div class="offer_logo"><img src="/img/creditplus.png" alt=""></div>
 					<div class="offer_info_wrap">
 						<div class="offer_info">
 							<div class="offer_info_title">Сума:</div>
-							<div class="offer_info_description">20 000 грн.</div>
+							<div class="offer_info_description">19 000 грн.</div>
 						</div>
 						<div class="offer_info">
 							<div class="offer_info_title">Ставка:</div>
-							<div class="offer_info_description">0%</div>
+							<div class="offer_info_description">0,01%</div>
 						</div>
 					</div>
 					<div class="details_block">
 						<ul>
-							<li><img src="/img/dollar.svg" alt="">На картку / Наличка</li>
-							<li><img src="/img/clock.svg" alt="">20 хв.</li>
+							<li><img src="/img/dollar.svg" alt="">На картку</li>
+							<li><img src="/img/clock.svg" alt="">15 хв.</li>
 						</ul>
 					</div>
 					<div class="offer_button">Отримати Гроші</div>
 				</a>
-				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/2099?aid=63223" class="offer red <?php $ar->displayHideClass(2099);?>">
-					<div class="promo_offer_block">0% на 30 дней!</div>
-					<div class="offer_logo"><img src="/img/credit7.png" alt=""></div>
-					<div class="offer_info_wrap">
-						<div class="offer_info">
-							<div class="offer_info_title">Сума:</div>
-							<div class="offer_info_description">10 000 грн.</div>
-						</div>
-						<div class="offer_info">
-							<div class="offer_info_title">Ставка:</div>
-							<div class="offer_info_description">0%</div>
-						</div>
-					</div>
-					<div class="details_block">
-						<ul>
-							<li><img src="/img/dollar.svg" alt="">На картку / Наличка</li>
-							<li><img src="/img/clock.svg" alt="">20 хв.</li>
-						</ul>
-					</div>
-					<div class="offer_button">Отримати Гроші</div>
-				</a>
-				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1200?aid=63223" class="offer yellow <?php $ar->displayHideClass(1200);?>">
-					<div class="offer_logo"><img src="/img/globalcredit.jpg" alt=""></div>
+				
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1276?aid=63223" class="offer yellow ">
+					<div class="offer_logo"><img src="/img/euro-groshi.png" alt=""></div>
 					<div class="offer_info_wrap">
 						<div class="offer_info">
 							<div class="offer_info_title">Сума:</div>
@@ -132,50 +379,8 @@ $ar = new Autorotator(5, array(1704, 1712, 250, 2561, 1986, 1844, 1711, 1436, 24
 					</div>
 					<div class="offer_button">Отримати Гроші</div>
 				</a>
-				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/2514?aid=63223" class="offer yellow <?php $ar->displayHideClass(2514);?>">
-					<div class="promo_offer_block">Рекомендуємо!</div>
-					<div class="offer_logo"><img style="width: 180px;" src="/img/forza.png" alt=""></div>
-					<div class="offer_info_wrap">
-						<div class="offer_info">
-							<div class="offer_info_title">Сума:</div>
-							<div class="offer_info_description">15 000 грн.</div>
-						</div>
-						<div class="offer_info">
-							<div class="offer_info_title">Ставка:</div>
-							<div class="offer_info_description">0,01%</div>
-						</div>
-					</div>
-					<div class="details_block">
-						<ul>
-							<li><img src="/img/dollar.svg" alt="">На картку</li>
-							<li><img src="/img/clock.svg" alt="">5 хв.</li>
-						</ul>
-					</div>
-					<div class="offer_button">Отримати Гроші</div>
-				</a>
-				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1914?aid=63223" class="offer yellow <?php $ar->displayHideClass(1914);?>">
-					<div class="offer_logo"><img src="/img/monetka.svg" alt=""></div>
-					<div class="offer_info_wrap">
-						<div class="offer_info">
-							<div class="offer_info_title">Сума:</div>
-							<div class="offer_info_description">10 000 грн.</div>
-						</div>
-						<div class="offer_info">
-							<div class="offer_info_title">Ставка:</div>
-							<div class="offer_info_description">0%</div>
-						</div>
-					</div>
-					<div class="details_block">
-						<ul>
-							<li><img src="/img/dollar.svg" alt="">На картку</li>
-							<li><img src="/img/clock.svg" alt="">2 хв.</li>
-						</ul>
-					</div>
-					<div class="offer_button">Отримати Гроші</div>
-				</a>
-				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/2217?aid=63223" class="offer red <?php $ar->displayHideClass(2217);?>">
-					<div class="promo_offer_block">Рекомендуємо!</div>
-					<div class="offer_logo"><img src="/img/money4u.png" alt=""></div>
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/2632?aid=63223" class="offer yellow ">
+					<div class="offer_logo"><img src="/img/creditbox.png" alt=""></div>
 					<div class="offer_info_wrap">
 						<div class="offer_info">
 							<div class="offer_info_title">Сума:</div>
@@ -194,9 +399,8 @@ $ar = new Autorotator(5, array(1704, 1712, 250, 2561, 1986, 1844, 1711, 1436, 24
 					</div>
 					<div class="offer_button">Отримати Гроші</div>
 				</a>
-				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1411?aid=63223" class="offer purple <?php $ar->displayHideClass(1411);?>">
-					<div class="promo_offer_block">Выдача 24/7</div>
-					<div class="offer_logo"><img src="/img/gotivochka.svg" alt=""></div>
+				<!-- <a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/2433?aid=63223" class="offer yellow ">
+					<div class="offer_logo"><img src="/img/mistercash.svg" alt=""></div>
 					<div class="offer_info_wrap">
 						<div class="offer_info">
 							<div class="offer_info_title">Сума:</div>
@@ -209,32 +413,13 @@ $ar = new Autorotator(5, array(1704, 1712, 250, 2561, 1986, 1844, 1711, 1436, 24
 					</div>
 					<div class="details_block">
 						<ul>
-							<li><img src="/img/dollar.svg" alt="">Наличка</li>
-							<li><img src="/img/clock.svg" alt="">20 хв.</li>
-						</ul>
-					</div>
-					<div class="offer_button">Отримати Гроші</div>
-				</a>
-				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1711?aid=63223" class="offer yellow <?php $ar->displayHideClass(1711);?>">
-					<div class="offer_logo"><img src="/img/e-groshi.png" alt=""></div>
-					<div class="offer_info_wrap">
-						<div class="offer_info">
-							<div class="offer_info_title">Сума:</div>
-							<div class="offer_info_description">7 000 грн.</div>
-						</div>
-						<div class="offer_info">
-							<div class="offer_info_title">Ставка:</div>
-							<div class="offer_info_description">0%</div>
-						</div>
-					</div>
-					<div class="details_block">
-						<ul>
 							<li><img src="/img/dollar.svg" alt="">На картку</li>
-							<li><img src="/img/clock.svg" alt="">2 хв.</li>
+							<li><img src="/img/clock.svg" alt="">10 хв.</li>
 						</ul>
 					</div>
 					<div class="offer_button">Отримати Гроші</div>
-				</a>
+				</a> -->
+				
 				<!-- <a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1727?aid=63223" class="offer green ">
 					<div class="offer_logo">
 						<img src="/img/cashberry.jpg" alt="">
@@ -259,33 +444,19 @@ $ar = new Autorotator(5, array(1704, 1712, 250, 2561, 1986, 1844, 1711, 1436, 24
 					<div class="offer_button">Отримати Гроші</div>
 				</a> -->
 				
-				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1272?aid=63223" class="offer yellow <?php $ar->displayHideClass(1272);?>">
-					<div class="offer_logo"><img src="/img/schvidko.jpeg" alt=""></div>
-					<div class="offer_info_wrap">
-						<div class="offer_info">
-							<div class="offer_info_title">Сума:</div>
-							<div class="offer_info_description">12 000 грн.</div>
-						</div>
-						<div class="offer_info">
-							<div class="offer_info_title">Ставка:</div>
-							<div class="offer_info_description">0,01%</div>
-						</div>
-					</div>
-					<div class="details_block">
-						<ul>
-							<li><img src="/img/dollar.svg" alt="">На картку</li>
-							<li><img src="/img/clock.svg" alt="">15 хв.</li>
-						</ul>
-					</div>
-					<div class="offer_button">Отримати Гроші</div>
-				</a>
-				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1436?aid=63223" class="offer yellow <?php $ar->displayHideClass(1436);?>">
+				
+				
+				
+				
+				
+				
+				<!-- <a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/2507?aid=63223" class="offer yellow ">
 					<div class="promo_offer_block">Рекомендуємо!</div>
-					<div class="offer_logo"><img style="width: 180px;" src="/img/miloan.svg" alt=""></div>
+					<div class="offer_logo"><img style="width: 180px;" src="/img/kf.svg" alt=""></div>
 					<div class="offer_info_wrap">
 						<div class="offer_info">
 							<div class="offer_info_title">Сума:</div>
-							<div class="offer_info_description">15 000 грн.</div>
+							<div class="offer_info_description">9 000 грн.</div>
 						</div>
 						<div class="offer_info">
 							<div class="offer_info_title">Ставка:</div>
@@ -300,12 +471,27 @@ $ar = new Autorotator(5, array(1704, 1712, 250, 2561, 1986, 1844, 1711, 1436, 24
 					</div>
 					<div class="offer_button">Отримати Гроші</div>
 				</a>
-				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/2606?aid=63223" class="offer yellow <?php $ar->displayHideClass(2606);?>">
-					<div class="offer_logo"><img src="/img/zecredit.png" alt=""></div>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1338?aid=63223" class="offer yellow ">
+					<div class="promo_offer_block">Рекомендуємо!</div>
+					<div class="offer_logo"><img style="width: 180px;" src="/img/soscredit.svg" alt=""></div>
 					<div class="offer_info_wrap">
 						<div class="offer_info">
 							<div class="offer_info_title">Сума:</div>
-							<div class="offer_info_description">12 000 грн.</div>
+							<div class="offer_info_description">5 000 грн.</div>
 						</div>
 						<div class="offer_info">
 							<div class="offer_info_title">Ставка:</div>
@@ -315,11 +501,190 @@ $ar = new Autorotator(5, array(1704, 1712, 250, 2561, 1986, 1844, 1711, 1436, 24
 					<div class="details_block">
 						<ul>
 							<li><img src="/img/dollar.svg" alt="">На картку</li>
-							<li><img src="/img/clock.svg" alt="">15 хв.</li>
+							<li><img src="/img/clock.svg" alt="">5 хв.</li>
 						</ul>
 					</div>
 					<div class="offer_button">Отримати Гроші</div>
 				</a>
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/2187?aid=63223" class="offer green ">
+					<div class="offer_logo">
+						<img src="/img/e-cash.png" alt="">
+						
+					</div>
+					<div class="offer_info_wrap">
+						<div class="offer_info">
+							<div class="offer_info_title">Сума:</div>
+							<div class="offer_info_description">10 000 грн.</div>
+						</div>
+						<div class="offer_info">
+							<div class="offer_info_title">Ставка:</div>
+							<div class="offer_info_description">0.01%</div>
+						</div>
+					</div>
+					<div class="details_block">
+						<ul>
+							<li><img src="/img/dollar.svg" alt="">На картку</li>
+							<li><img src="/img/clock.svg" alt="">15 хв.</li>
+						</ul>
+					</div>
+					<div class="offer_button">Отримати Гроші</div>
+				</a> -->
+				<!-- <a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1411?aid=63223" class="offer purple ">
+					<div class="promo_offer_block">Выдача 24/7</div>
+					<div class="offer_logo"><img src="/img/gotivochka.svg" alt=""></div>
+					<div class="offer_info_wrap">
+						<div class="offer_info">
+							<div class="offer_info_title">Сума:</div>
+							<div class="offer_info_description">12 000 грн.</div>
+						</div>
+						<div class="offer_info">
+							<div class="offer_info_title">Ставка:</div>
+							<div class="offer_info_description">0%</div>
+						</div>
+					</div>
+					<div class="details_block">
+						<ul>
+							<li><img src="/img/dollar.svg" alt="">Наличка</li>
+							<li><img src="/img/clock.svg" alt="">20 хв.</li>
+						</ul>
+					</div>
+					<div class="offer_button">Отримати Гроші</div>
+				</a>
+				 -->
+				
+				<!-- 
+				
+				
+				
+				
+				
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1200?aid=63223" class="offer yellow">
+					<div class="offer_logo"><img src="/img/globalcredit.jpg" alt=""></div>
+					<div class="offer_info_wrap">
+						<div class="offer_info">
+							<div class="offer_info_title">Сума:</div>
+							<div class="offer_info_description">7 000 грн.</div>
+						</div>
+						<div class="offer_info">
+							<div class="offer_info_title">Ставка:</div>
+							<div class="offer_info_description">0%</div>
+						</div>
+					</div>
+					<div class="details_block">
+						<ul>
+							<li><img src="/img/dollar.svg" alt="">На картку</li>
+							<li><img src="/img/clock.svg" alt="">2 хв.</li>
+						</ul>
+					</div>
+					<div class="offer_button">Отримати Гроші</div>
+				</a>
+				
+				
+				
+				
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/250?aid=63223" class="offer red ">
+					<div class="promo_offer_block">Рекомендуємо!</div>
+					<div class="offer_logo"><img src="/img/moneyveo.svg" alt=""></div>
+					<div class="offer_info_wrap">
+						<div class="offer_info">
+							<div class="offer_info_title">Сума:</div>
+							<div class="offer_info_description">20 000 грн.</div>
+						</div>
+						<div class="offer_info">
+							<div class="offer_info_title">Ставка:</div>
+							<div class="offer_info_description">0%</div>
+						</div>
+					</div>
+					<div class="details_block">
+						<ul>
+							<li><img src="/img/dollar.svg" alt="">На картку</li>
+							<li><img src="/img/clock.svg" alt="">10 хв.</li>
+						</ul>
+					</div>
+					<div class="offer_button">Отримати Гроші</div>
+				</a> -->
+				<!-- 
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/2219?aid=63223" class="offer green ">
+					<div class="offer_logo">
+						<img src="/img/creditlite.png" alt="">
+						
+					</div>
+					<div class="offer_info_wrap">
+						<div class="offer_info">
+							<div class="offer_info_title">Сума:</div>
+							<div class="offer_info_description">9 000 грн.</div>
+						</div>
+						<div class="offer_info">
+							<div class="offer_info_title">Ставка:</div>
+							<div class="offer_info_description">0.01%</div>
+						</div>
+					</div>
+					<div class="details_block">
+						<ul>
+							<li><img src="/img/dollar.svg" alt="">На картку</li>
+							<li><img src="/img/clock.svg" alt="">15 хв.</li>
+						</ul>
+					</div>
+					<div class="offer_button">Отримати Гроші</div>
+				</a> -->
+				
+				
+				
+				
+				<!-- 
+				
+				
+				
+				
+				
+				
+				
+				
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1985?aid=63223" class="offer red ">
+					<div class="promo_offer_block">0% на 30 дней!</div>
+					<div class="offer_logo"><img src="/img/Groshik_1.png" alt=""></div>
+					<div class="offer_info_wrap">
+						<div class="offer_info">
+							<div class="offer_info_title">Сума:</div>
+							<div class="offer_info_description">8 000 грн.</div>
+						</div>
+						<div class="offer_info">
+							<div class="offer_info_title">Ставка:</div>
+							<div class="offer_info_description">0%</div>
+						</div>
+					</div>
+					<div class="details_block">
+						<ul>
+							<li><img src="/img/dollar.svg" alt="">На картку / Наличка</li>
+							<li><img src="/img/clock.svg" alt="">20 хв.</li>
+						</ul>
+					</div>
+					<div class="offer_button">Отримати Гроші</div>
+				</a>
+				
+				 -->
+				
+				
+				
+				
+				<!-- 
+				
+				 -->
+				
+				<!--  -->
+				
+				<!-- 
+				
+				 -->
 				
 				
 				
@@ -332,7 +697,7 @@ $ar = new Autorotator(5, array(1704, 1712, 250, 2561, 1986, 1844, 1711, 1436, 24
 				
 				
 				
-				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1509?aid=63223" class="offer green <?php $ar->displayHideClass(1509);?>">
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1509?aid=63223" class="offer green ">
 					<div class="offer_logo">
 						<img src="/img/alexcredit.png" alt="">
 						
@@ -358,7 +723,7 @@ $ar = new Autorotator(5, array(1704, 1712, 250, 2561, 1986, 1844, 1711, 1436, 24
 				<!--  -->
 				
 				
-				<!-- <a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/2606?aid=63223" class="offer yellow <?php $ar->displayHideClass(2606);?>">
+				<!-- <a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/2606?aid=63223" class="offer yellow ">
 					<div class="offer_logo"><img src="/img/zecredit.png" alt=""></div>
 					<div class="offer_info_wrap">
 						<div class="offer_info">
@@ -382,48 +747,9 @@ $ar = new Autorotator(5, array(1704, 1712, 250, 2561, 1986, 1844, 1711, 1436, 24
 				
 				
 				
-				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/250?aid=63223" class="offer red <?php $ar->displayHideClass(250);?>">
-					<div class="promo_offer_block">Рекомендуємо!</div>
-					<div class="offer_logo"><img src="/img/moneyveo.svg" alt=""></div>
-					<div class="offer_info_wrap">
-						<div class="offer_info">
-							<div class="offer_info_title">Сума:</div>
-							<div class="offer_info_description">20 000 грн.</div>
-						</div>
-						<div class="offer_info">
-							<div class="offer_info_title">Ставка:</div>
-							<div class="offer_info_description">0%</div>
-						</div>
-					</div>
-					<div class="details_block">
-						<ul>
-							<li><img src="/img/dollar.svg" alt="">На картку</li>
-							<li><img src="/img/clock.svg" alt="">10 хв.</li>
-						</ul>
-					</div>
-					<div class="offer_button">Отримати Гроші</div>
-				</a> -->
+				 -->
 				
-				<!-- <a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1261?aid=63223" class="offer purple <?php $ar->displayHideClass(1261);?>">
-					<div class="offer_logo"><img src="/img/mycredit.svg" alt=""></div>
-					<div class="offer_info_wrap">
-						<div class="offer_info">
-							<div class="offer_info_title">Сума:</div>
-							<div class="offer_info_description">20 000 грн.</div>
-						</div>
-						<div class="offer_info">
-							<div class="offer_info_title">Ставка:</div>
-							<div class="offer_info_description">0,01%</div>
-						</div>
-					</div>
-					<div class="details_block">
-						<ul>
-							<li><img src="/img/dollar.svg" alt="">На картку</li>
-							<li><img src="/img/clock.svg" alt="">15 хв.</li>
-						</ul>
-					</div>
-					<div class="offer_button">Отримати Гроші</div>
-				</a> -->
+				<!--  -->
 				
 				<!--  -->
 				
@@ -451,7 +777,7 @@ $ar = new Autorotator(5, array(1704, 1712, 250, 2561, 1986, 1844, 1711, 1436, 24
 				
 				
 				
-				<!-- <a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/2514?aid=63223" class="offer yellow <?php $ar->displayHideClass(2514);?>">
+				<!-- <a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/2514?aid=63223" class="offer yellow ">
 					<div class="promo_offer_block">Рекомендуємо!</div>
 					<div class="offer_logo"><img style="width: 180px;" src="/img/forza.png" alt=""></div>
 					<div class="offer_info_wrap">
@@ -474,7 +800,7 @@ $ar = new Autorotator(5, array(1704, 1712, 250, 2561, 1986, 1844, 1711, 1436, 24
 				</a>
 				
 				
-				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1704?aid=63223" class="offer red <?php $ar->displayHideClass(1704);?>">
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1704?aid=63223" class="offer red ">
 					<div class="promo_offer_block">0% на 30 дней!</div>
 					<div class="offer_logo"><img src="/img/logo_creditkasa.jpg" alt=""></div>
 					<div class="offer_info_wrap">
@@ -516,47 +842,9 @@ $ar = new Autorotator(5, array(1704, 1712, 250, 2561, 1986, 1844, 1711, 1436, 24
 						</div>
 						<div class="offer_button">Отримати Гроші</div>
 				</a> -->
-				<!-- <a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1706?aid=63223" class="offer purple <?php $ar->displayHideClass(1706);?>">
-					<div class="offer_logo"><img src="/img/mywallet.jpg" alt=""></div>
-					<div class="offer_info_wrap">
-						<div class="offer_info">
-							<div class="offer_info_title">Сума:</div>
-							<div class="offer_info_description">20 000 грн.</div>
-						</div>
-						<div class="offer_info">
-							<div class="offer_info_title">Ставка:</div>
-							<div class="offer_info_description">0,01%</div>
-						</div>
-					</div>
-					<div class="details_block">
-						<ul>
-							<li><img src="/img/dollar.svg" alt="">На картку</li>
-							<li><img src="/img/clock.svg" alt="">15 хв.</li>
-						</ul>
-					</div>
-					<div class="offer_button">Отримати Гроші</div>
-				</a> -->
+				<!--  -->
 				<!-- 
-				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1844?aid=63223" class="offer yellow <?php $ar->displayHideClass(1844);?>">
-					<div class="offer_logo"><img src="/img/creditplus.png" alt=""></div>
-					<div class="offer_info_wrap">
-						<div class="offer_info">
-							<div class="offer_info_title">Сума:</div>
-							<div class="offer_info_description">19 000 грн.</div>
-						</div>
-						<div class="offer_info">
-							<div class="offer_info_title">Ставка:</div>
-							<div class="offer_info_description">0,01%</div>
-						</div>
-					</div>
-					<div class="details_block">
-						<ul>
-							<li><img src="/img/dollar.svg" alt="">На картку</li>
-							<li><img src="/img/clock.svg" alt="">15 хв.</li>
-						</ul>
-					</div>
-					<div class="offer_button">Отримати Гроші</div>
-				</a> -->
+				 -->
 				
 				
 				
@@ -574,7 +862,7 @@ $ar = new Autorotator(5, array(1704, 1712, 250, 2561, 1986, 1844, 1711, 1436, 24
 				
 				
 				
-				<!-- <a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1261?aid=63223" class="offer purple <?php $ar->displayHideClass(1261);?>">
+				<!-- <a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1261?aid=63223" class="offer purple ">
 					<div class="offer_logo"><img src="/img/mycredit.svg" alt=""></div>
 					<div class="offer_info_wrap">
 						<div class="offer_info">
@@ -608,7 +896,7 @@ $ar = new Autorotator(5, array(1704, 1712, 250, 2561, 1986, 1844, 1711, 1436, 24
 				
 				
 				<!--  -->
-				<!-- <a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1272?aid=63223" class="offer yellow <?php $ar->displayHideClass(1272);?>">
+				<!-- <a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1272?aid=63223" class="offer yellow ">
 					<div class="offer_logo"><img src="/img/schvidko.jpeg" alt=""></div>
 					<div class="offer_info_wrap">
 						<div class="offer_info">
@@ -631,7 +919,7 @@ $ar = new Autorotator(5, array(1704, 1712, 250, 2561, 1986, 1844, 1711, 1436, 24
 				
 				
 				<!-- 
-				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1272?aid=63223" class="offer yellow <?php $ar->displayHideClass(1272);?>">
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1272?aid=63223" class="offer yellow ">
 					<div class="offer_logo"><img src="/img/schvidko.jpeg" alt=""></div>
 					<div class="offer_info_wrap">
 						<div class="offer_info">
@@ -655,7 +943,7 @@ $ar = new Autorotator(5, array(1704, 1712, 250, 2561, 1986, 1844, 1711, 1436, 24
 				<!--
 				
 				
-				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/2591?aid=63223" class="offer yellow <?php $ar->displayHideClass(2591);?>">
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/2591?aid=63223" class="offer yellow ">
 					<div class="offer_logo"><img src="/img/cly.png" alt=""></div>
 					<div class="offer_info_wrap">
 						<div class="offer_info">
@@ -691,7 +979,7 @@ $ar = new Autorotator(5, array(1704, 1712, 250, 2561, 1986, 1844, 1711, 1436, 24
 				-->
 				<!--  -->
 				<!--
-				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1436?aid=63223" class="offer yellow <?php $ar->displayHideClass(1436);?>">
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1436?aid=63223" class="offer yellow ">
 					<div class="promo_offer_block">Рекомендуємо!</div>
 					<div class="offer_logo"><img style="width: 180px;" src="/img/miloan.svg" alt=""></div>
 					<div class="offer_info_wrap">
@@ -712,7 +1000,7 @@ $ar = new Autorotator(5, array(1704, 1712, 250, 2561, 1986, 1844, 1711, 1436, 24
 					</div>
 					<div class="offer_button">Отримати Гроші</div>
 				</a> -->
-				<!-- <a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/2099?aid=63223" class="offer red <?php $ar->displayHideClass(2099);?>">
+				<!-- <a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/2099?aid=63223" class="offer red ">
 					<div class="promo_offer_block">0% на 30 дней!</div>
 					<div class="offer_logo"><img src="/img/credit7.png" alt=""></div>
 					<div class="offer_info_wrap">
@@ -734,7 +1022,7 @@ $ar = new Autorotator(5, array(1704, 1712, 250, 2561, 1986, 1844, 1711, 1436, 24
 					<div class="offer_button">Отримати Гроші</div>
 				</a> -->
 				<!--  -->
-				<!-- <a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1712?aid=63223" class="offer red <?php $ar->displayHideClass(1712);?>">
+				<!-- <a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1712?aid=63223" class="offer red ">
 					<div class="promo_offer_block">Рекомендуємо!</div>
 					<div class="offer_logo"><img src="/img/mazila.jpg" alt=""></div>
 					<div class="offer_info_wrap">
@@ -763,7 +1051,7 @@ $ar = new Autorotator(5, array(1704, 1712, 250, 2561, 1986, 1844, 1711, 1436, 24
 				
 				<!--
 				-->
-				<!-- <a target="_blank" rel="nofollow noopener noreferrer" href="https://www.prtslinprtslink.com/in/offer/2561?aid=63223" class="offer red <?php $ar->displayHideClass(2561);?>">
+				<!-- <a target="_blank" rel="nofollow noopener noreferrer" href="https://www.prtslinprtslink.com/in/offer/2561?aid=63223" class="offer red ">
 					<div class="promo_offer_block">Рекомендуємо!</div>
 					<div class="offer_logo"><img src="/img/safezaim.jpg" alt=""></div>
 					<div class="offer_info_wrap">
@@ -787,7 +1075,7 @@ $ar = new Autorotator(5, array(1704, 1712, 250, 2561, 1986, 1844, 1711, 1436, 24
 				
 				
 				
-				<!-- <a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/250?aid=63223" class="offer red <?php $ar->displayHideClass(250);?>">
+				<!-- <a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/250?aid=63223" class="offer red ">
 					<div class="promo_offer_block">Рекомендуємо!</div>
 					<div class="offer_logo"><img src="/img/moneyveo.svg" alt=""></div>
 					<div class="offer_info_wrap">
@@ -810,27 +1098,8 @@ $ar = new Autorotator(5, array(1704, 1712, 250, 2561, 1986, 1844, 1711, 1436, 24
 				</a> -->
 				<!---------------  1 ----------->
 				
-				<!-- <a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/2433?aid=63223" class="offer yellow <?php $ar->displayHideClass(2433);?>">
-					<div class="offer_logo"><img src="/img/mistercash.svg" alt=""></div>
-					<div class="offer_info_wrap">
-						<div class="offer_info">
-							<div class="offer_info_title">Сума:</div>
-							<div class="offer_info_description">12 000 грн.</div>
-						</div>
-						<div class="offer_info">
-							<div class="offer_info_title">Ставка:</div>
-							<div class="offer_info_description">0%</div>
-						</div>
-					</div>
-					<div class="details_block">
-						<ul>
-							<li><img src="/img/dollar.svg" alt="">На картку</li>
-							<li><img src="/img/clock.svg" alt="">10 хв.</li>
-						</ul>
-					</div>
-					<div class="offer_button">Отримати Гроші</div>
-				</a>
-				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1436?aid=63223" class="offer yellow <?php $ar->displayHideClass(1436);?>">
+				<!-- 
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1436?aid=63223" class="offer yellow ">
 					<div class="promo_offer_block">Рекомендуємо!</div>
 					<div class="offer_logo"><img style="width: 180px;" src="/img/miloan.svg" alt=""></div>
 					<div class="offer_info_wrap">
@@ -851,7 +1120,7 @@ $ar = new Autorotator(5, array(1704, 1712, 250, 2561, 1986, 1844, 1711, 1436, 24
 					</div>
 					<div class="offer_button">Отримати Гроші</div>
 				</a>
-				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1986?aid=63223" class="offer red <?php $ar->displayHideClass(1986);?>">
+				<a target="_blank" rel="nofollow noopener noreferrer" href="https://go.salesdoubler.net/in/offer/1986?aid=63223" class="offer red ">
 					<div class="promo_offer_block">0% на 30 дней!</div>
 					<div class="offer_logo"><img src="/img/CCLoan.png" alt=""></div>
 					<div class="offer_info_wrap">
@@ -961,7 +1230,7 @@ $ar = new Autorotator(5, array(1704, 1712, 250, 2561, 1986, 1844, 1711, 1436, 24
 			</div>
 		</footer>
 		<a href="http://bit.ly/2HlaV3m" target="_blank" class="viber_chat"></a>
-		<a href="http://telegram.me/PrivatCreditbot" class="telegram_chat" target="_blank"></a>
+		
 		<script src="/js/jquery-3.1.1.js"></script>
 		<script src="/js/modal.js"></script>
 		<script src="/js/href_replacer.js"></script>

@@ -6,7 +6,7 @@
 		<title>Кредит онлайн — взять кредит на карту через интернет без справок и поручителей</title>
 		<meta name="description" content="Быстрый кредит онлайн на карту от 0%. Без справок и поручителей. Круглосуточно. Сравни и выбери лучшие условия!">
 		<link rel="stylesheet" href="/css/style-creditonline.css">
-		<link rel="stylesheet" href="/css/modal.css">
+		<link rel="stylesheet" href="/css/newmodal.css">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="icon" href="/favicon.ico">
 		<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
@@ -25,13 +25,31 @@
 		});
 		});
 		</script>
-		<script>window.searchUrl = 'https://tinyurl.com/y57ye4op';</script>
+		<script>window.searchUrl = 'https://tinyurl.com/yywy6gdb';</script>
 		<style>
 			.entry-content h2{
 				display: none;
 			}
 			.entry-content .credit_descr{
 				display: block !important;
+			}
+			.modal .offer_button{
+			    display: block;
+			    background: #6eb74b;
+			    color: #fff;
+			    transition: .3s;
+			    width: 155px;
+			    height: 50px;
+			    line-height: 50px;
+			    margin-top: 15px;
+			    text-align: center;
+			    text-decoration: none;
+			    border-radius: 4px;
+			    font-size: 12px;
+			    text-transform: uppercase;
+			}
+			.modal_title:before{
+				background-image: url(/img/wave-green.svg);
 			}
 		</style>
 	</head>
@@ -52,11 +70,47 @@
 			<div class="wrapper">
 				
 				<div class="entry-content">
-					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/1411?aid=63223">
+					<a rel="nofollow noopener noreferrer" target="_blank" class="" href="https://go.salesdoubler.net/in/offer/2514?aid=63223">
+						<div id="toCheckButton" class="creditOffer">
+							<div class="logo_and_desc">
+								<div class="credit_image"><img src="/img/forza.png" alt=""></div>
+								<h2 class="credit_descr">Кредит онлайн от Forza</h2>
+								<h2 class="credit_descr green_credit">Первый кредит под 0%</h2>
+							</div>
+							<div class="details_wrap">
+								<div class="details">
+									<div class="credit_bet_descr">ставка в день</div>
+									<div class="credit_bet">от <span>0,01</span>%</div>
+									
+								</div>
+								<div class="details">
+									<div class="credit_bet_descr">максимальная сумма</div>
+									<div class="credit_bet">до <span>5 000</span>₴</div>
+									
+								</div>
+							</div>
+							<div class="stats">
+								<div class="credit_stats">
+									<div><img src="/img/timer.svg" alt="">15 мин.</div>
+									<div><img src="/img/credicard.svg" alt="">На карту</div>
+								</div>
+								<div class="credit_stats">
+									<div><img src="/img/star.svg" alt="">4.0 / 5</div>
+									<div><span>648</span> заказа</div>
+								</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Приведи друга — получи 100 грн.</div>
+							</div>
+							<div class="get_credit_button">
+								<span>Подать заявку</span>
+							</div>
+						</div>
+					</a>
+					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/1272?aid=63223">
 						<div class="creditOffer ">
 							<div class="logo_and_desc">
-								<div class="credit_image"><img src="/img/gotivochka.svg" alt=""></div>
-								<h2 class="credit_descr">Кредит онлайн от Ваша готівочка</h2>
+								<div class="credit_image"><img src="/img/schvidko.jpeg" alt=""></div>
+								<h2 class="credit_descr">Кредит онлайн от Швидко Гроші</h2>
 								<h2 class="credit_descr green_credit">Получите до 3000 грн со 100% * скидкой на свой первый кредит!</h2>
 							</div>
 							<div class="details_wrap">
@@ -88,17 +142,89 @@
 							</div>
 						</div>
 					</a>
-					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/1986?aid=63223">
+					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/1706?aid=63223">
 						<div class="creditOffer">
 							<div class="logo_and_desc">
-								<div class="credit_image"><img src="/img/CCLoan.png" alt=""></div>
-								<h2 class="credit_descr">Кредит онлайн от CCloan</h2>
+								<div class="credit_image"><img src="/img/mywallet.jpg" alt=""></div>
+								<h2 class="credit_descr">Кредит онлайн от MyWallet</h2>
+								<h2 class="credit_descr green_credit">Получите до 3000 грн со 100% * скидкой на свой первый кредит!</h2>
+							</div>
+							<div class="details_wrap">
+								<div class="details">
+									<div class="credit_bet_descr">ставка в день</div>
+									<div class="credit_bet">от <span>0</span>%</div>
+									
+								</div>
+								<div class="details">
+									<div class="credit_bet_descr">максимальная сумма</div>
+									<div class="credit_bet">до <span>7 000</span>₴</div>
+									
+								</div>
+							</div>
+							<div class="stats">
+								<div class="credit_stats">
+									<div><img src="/img/timer.svg" alt="">15 мин.</div>
+									<div><img src="/img/credicard.svg" alt="">На карту</div>
+								</div>
+								<div class="credit_stats">
+									<div><img src="/img/star.svg" alt="">3.8 / 5</div>
+									<div><span>2 227</span> заказа</div>
+								</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
+								
+							</div>
+							<div class="get_credit_button">
+								<span>Подать заявку</span>
+							</div>
+						</div>
+					</a>
+					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/2184?aid=63223">
+						<div class="creditOffer">
+							<div class="logo_and_desc">
+								<div class="credit_image"><img src="/img/zecredit.png" alt=""></div>
+								<h2 class="credit_descr">Кредит онлайн от Zecredit</h2>
+								<h2 class="credit_descr green_credit">Первый кредит под 0%</h2>
+							</div>
+							<div class="details_wrap">
+								<div class="details">
+									<div class="credit_bet_descr">ставка в день</div>
+									<div class="credit_bet">от <span>0</span>%</div>
+									
+								</div>
+								<div class="details">
+									<div class="credit_bet_descr">максимальная сумма</div>
+									<div class="credit_bet">до <span>10 000</span>₴</div>
+									
+								</div>
+							</div>
+							<div class="stats">
+								<div class="credit_stats">
+									<div><img src="/img/timer.svg" alt="">10 мин.</div>
+									<div><img src="/img/credicard.svg" alt="">На карту</div>
+								</div>
+								<div class="credit_stats">
+									<div><img src="/img/star.svg" alt="">4.0 / 5</div>
+									<div><span>2 227</span> заказа</div>
+								</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Приведи друга — получи 100 грн.</div>
+							</div>
+							<div class="get_credit_button">
+								<span>Подать заявку</span>
+							</div>
+						</div>
+					</a>
+					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/1711?aid=63223">
+						<div class="creditOffer ">
+							<div class="logo_and_desc">
+								<div class="credit_image"><img src="/img/e-groshi.png" alt=""></div>
+								<h2 class="credit_descr">Кредит онлайн от E-groshi</h2>
 								<h2 class="credit_descr green_credit">Первый кредит до 8 000 гривен под 0,01% в день</h2>
 							</div>
 							<div class="details_wrap">
 								<div class="details">
 									<div class="credit_bet_descr">ставка в день</div>
-									<div class="credit_bet">от <span>0,01</span>%</div>
+									<div class="credit_bet">від <span>0,01</span>%</div>
 									
 								</div>
 								<div class="details">
@@ -160,42 +286,6 @@
 							</div>
 						</div>
 					</a>
-					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/1200?aid=63223">
-						<div class="creditOffer">
-							<div class="logo_and_desc">
-								<div class="credit_image"><img src="/img/globalcredit.jpg" alt=""></div>
-								<h2 class="credit_descr">Кредит онлайн от Global Credit</h2>
-								<h2 class="credit_descr green_credit">онлайн кредит на карту от 0,01%</h2>
-							</div>
-							<div class="details_wrap">
-								<div class="details">
-									<div class="credit_bet_descr">ставка в день</div>
-									<div class="credit_bet">от <span>0,01</span>%</div>
-									
-								</div>
-								<div class="details">
-									<div class="credit_bet_descr">максимальная сумма</div>
-									<div class="credit_bet">до <span>7 000</span>₴</div>
-									
-								</div>
-							</div>
-							<div class="stats">
-								<div class="credit_stats">
-									<div><img src="/img/timer.svg" alt="">10 мин.</div>
-									<div><img src="/img/credicard.svg" alt="">На карту</div>
-								</div>
-								<div class="credit_stats">
-									<div><img src="/img/star.svg" alt="">4.0 / 5</div>
-									<div><span>2 876</span> заказа</div>
-								</div>
-								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
-								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Приведи друга — получи 300 грн.</div>
-							</div>
-							<div class="get_credit_button">
-								<span>Подать заявку</span>
-							</div>
-						</div>
-					</a>
 					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/2217?aid=63223">
 						<div class="creditOffer">
 							<div class="logo_and_desc">
@@ -232,12 +322,12 @@
 							</div>
 						</div>
 					</a>
-					<a rel="nofollow noopener noreferrer" target="_blank" class="" href="https://go.salesdoubler.net/in/offer/1509?aid=63223">
-						<div id="toCheckButton" class="creditOffer">
+					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/1986?aid=63223">
+						<div class="creditOffer">
 							<div class="logo_and_desc">
-								<div class="credit_image"><img src="/img/alexcredit.png" alt=""></div>
-								<h2 class="credit_descr">Кредит онлайн от AlexCredit</h2>
-								<h2 class="credit_descr green_credit">Первый кредит под 0%</h2>
+								<div class="credit_image"><img src="/img/CCLoan.png" alt=""></div>
+								<h2 class="credit_descr">Кредит онлайн от CCloan</h2>
+								<h2 class="credit_descr green_credit">Первый кредит до 8 000 гривен под 0,01% в день</h2>
 							</div>
 							<div class="details_wrap">
 								<div class="details">
@@ -247,64 +337,27 @@
 								</div>
 								<div class="details">
 									<div class="credit_bet_descr">максимальная сумма</div>
-									<div class="credit_bet">до <span>5 000</span>₴</div>
+									<div class="credit_bet">до <span>20 000</span>₴</div>
 									
 								</div>
 							</div>
 							<div class="stats">
 								<div class="credit_stats">
-									<div><img src="/img/timer.svg" alt="">15 мин.</div>
+									<div><img src="/img/timer.svg" alt="">Мгновенно</div>
 									<div><img src="/img/credicard.svg" alt="">На карту</div>
 								</div>
 								<div class="credit_stats">
-									<div><img src="/img/star.svg" alt="">4.0 / 5</div>
-									<div><span>648</span> заказа</div>
+									<div><img src="/img/star.svg" alt="">4.5 / 5</div>
+									<div><span>2 001</span> заказа</div>
 								</div>
 								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
-								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Приведи друга — получи 100 грн.</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Играй как Красава</div>
 							</div>
 							<div class="get_credit_button">
 								<span>Подать заявку</span>
 							</div>
 						</div>
 					</a>
-					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/1276?aid=63223">
-						<div class="creditOffer ">
-							<div class="logo_and_desc">
-								<div class="credit_image"><img src="/img/euro-groshi.png" alt=""></div>
-								<h2 class="credit_descr">Кредит онлайн от EuroGroshi</h2>
-								<h2 class="credit_descr green_credit">Получите до 3000 грн со 100% * скидкой на свой первый кредит!</h2>
-							</div>
-							<div class="details_wrap">
-								<div class="details">
-									<div class="credit_bet_descr">ставка в день</div>
-									<div class="credit_bet">от <span>0</span>%</div>
-									
-								</div>
-								<div class="details">
-									<div class="credit_bet_descr">максимальная сумма</div>
-									<div class="credit_bet">до <span>11 000</span>₴</div>
-									
-								</div>
-							</div>
-							<div class="stats">
-								<div class="credit_stats">
-									<div><img src="/img/timer.svg" alt="">15 мин.</div>
-									<div><img src="/img/credicard.svg" alt="">На карту</div>
-								</div>
-								<div class="credit_stats">
-									<div><img src="/img/star.svg" alt="">4.0 / 5</div>
-									<div><span>2 227</span> заказа</div>
-								</div>
-								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
-								
-							</div>
-							<div class="get_credit_button">
-								<span>Подать заявку</span>
-							</div>
-						</div>
-					</a>
-					
 					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/1914?aid=63223">
 						<div class="creditOffer">
 							<div class="logo_and_desc">
@@ -335,115 +388,6 @@
 								</div>
 								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
 								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Приведи друга — получи 100 грн.</div>
-							</div>
-							<div class="get_credit_button">
-								<span>Подать заявку</span>
-							</div>
-						</div>
-					</a>
-					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/2507?aid=63223">
-						<div class="creditOffer ">
-							<div class="logo_and_desc">
-								<div class="credit_image"><img src="/img/kf.svg" alt=""></div>
-								<h2 class="credit_descr">Кредит онлайн от KF</h2>
-								<h2 class="credit_descr green_credit">Первый кредит до 8 000 гривен под 0,01% в день</h2>
-							</div>
-							<div class="details_wrap">
-								<div class="details">
-									<div class="credit_bet_descr">ставка в день</div>
-									<div class="credit_bet">от <span>0,01</span>%</div>
-									
-								</div>
-								<div class="details">
-									<div class="credit_bet_descr">максимальная сумма</div>
-									<div class="credit_bet">до <span>8 000</span>₴</div>
-									
-								</div>
-							</div>
-							<div class="stats">
-								<div class="credit_stats">
-									<div><img src="/img/timer.svg" alt="">Мгновенно</div>
-									<div><img src="/img/credicard.svg" alt="">На карту</div>
-								</div>
-								<div class="credit_stats">
-									<div><img src="/img/star.svg" alt="">4.5 / 5</div>
-									<div><span>2 001</span> заказа</div>
-								</div>
-								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
-								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Играй как Красава</div>
-							</div>
-							<div class="get_credit_button">
-								<span>Подать заявку</span>
-							</div>
-						</div>
-					</a>
-					<a rel="nofollow noopener noreferrer" target="_blank" class="" href="https://go.salesdoubler.net/in/offer/2514?aid=63223">
-						<div id="toCheckButton" class="creditOffer">
-							<div class="logo_and_desc">
-								<div class="credit_image"><img src="/img/forza.png" alt=""></div>
-								<h2 class="credit_descr">Кредит онлайн от Forza</h2>
-								<h2 class="credit_descr green_credit">Первый кредит под 0%</h2>
-							</div>
-							<div class="details_wrap">
-								<div class="details">
-									<div class="credit_bet_descr">ставка в день</div>
-									<div class="credit_bet">от <span>0,01</span>%</div>
-									
-								</div>
-								<div class="details">
-									<div class="credit_bet_descr">максимальная сумма</div>
-									<div class="credit_bet">до <span>5 000</span>₴</div>
-									
-								</div>
-							</div>
-							<div class="stats">
-								<div class="credit_stats">
-									<div><img src="/img/timer.svg" alt="">15 мин.</div>
-									<div><img src="/img/credicard.svg" alt="">На карту</div>
-								</div>
-								<div class="credit_stats">
-									<div><img src="/img/star.svg" alt="">4.0 / 5</div>
-									<div><span>648</span> заказа</div>
-								</div>
-								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
-								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Приведи друга — получи 100 грн.</div>
-							</div>
-							<div class="get_credit_button">
-								<span>Подать заявку</span>
-							</div>
-						</div>
-					</a>
-					
-					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/1844?aid=63223">
-						<div class="creditOffer">
-							<div class="logo_and_desc">
-								<div class="credit_image"><img src="/img/creditplus.png" alt=""></div>
-								<h2 class="credit_descr">Кредит онлайн от Creditplus</h2>
-								<h2 class="credit_descr green_credit">онлайн кредит на карту от 0,01%</h2>
-							</div>
-							<div class="details_wrap">
-								<div class="details">
-									<div class="credit_bet_descr">ставка в день</div>
-									<div class="credit_bet">от <span>0,01</span>%</div>
-									
-								</div>
-								<div class="details">
-									<div class="credit_bet_descr">максимальная сумма</div>
-									<div class="credit_bet">до <span>10 000</span>₴</div>
-									
-								</div>
-							</div>
-							<div class="stats">
-								<div class="credit_stats">
-									<div><img src="/img/timer.svg" alt="">10 мин.</div>
-									<div><img src="/img/credicard.svg" alt="">На карту</div>
-								</div>
-								<div class="credit_stats">
-									<div><img src="/img/star.svg" alt="">4.0 / 5</div>
-									<div><span>2 876</span> заказа</div>
-								</div>
-								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
-								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Приведи друга — получи 300 грн.</div>
 							</div>
 							<div class="get_credit_button">
 								<span>Подать заявку</span>
@@ -486,11 +430,346 @@
 							</div>
 						</div>
 					</a>
-					<!-- <a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/1727?aid=63223">
+					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/1960?aid=63223">
+						<div class="creditOffer">
+							<div class="logo_and_desc">
+								<div class="credit_image"><img src="/img/gofingo.png" alt=""></div>
+								<h2 class="credit_descr">Кредит онлайн от GoFinGo</h2>
+								<h2 class="credit_descr green_credit">Первый кредит под 0%</h2>
+							</div>
+							<div class="details_wrap">
+								<div class="details">
+									<div class="credit_bet_descr">ставка в день</div>
+									<div class="credit_bet">от <span>0</span>%</div>
+									
+								</div>
+								<div class="details">
+									<div class="credit_bet_descr">максимальная сумма</div>
+									<div class="credit_bet">до <span>15 000</span>₴</div>
+									
+								</div>
+							</div>
+							<div class="stats">
+								<div class="credit_stats">
+									<div><img src="/img/timer.svg" alt="">2 мин.</div>
+									<div><img src="/img/credicard.svg" alt="">На карту</div>
+								</div>
+								<div class="credit_stats">
+									<div><img src="/img/star.svg" alt="">4.0 / 5</div>
+									<div><span>2 227</span> заказа</div>
+								</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Приведи друга — получи 100 грн.</div>
+							</div>
+							<div class="get_credit_button">
+								<span>Подать заявку</span>
+							</div>
+						</div>
+					</a>
+					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/1928?aid=63223">
 						<div class="creditOffer ">
+							<div class="logo_and_desc">
+								<div class="credit_image"><img src="/img/coshelek.png" alt=""></div>
+								<h2 class="credit_descr">Кредит онлайн от Koshelek</h2>
+								<h2 class="credit_descr green_credit">Получите до 3000 грн со 100% * скидкой на свой первый кредит!</h2>
+							</div>
+							<div class="details_wrap">
+								<div class="details">
+									<div class="credit_bet_descr">ставка в день</div>
+									<div class="credit_bet">от <span>0</span>%</div>
+									
+								</div>
+								<div class="details">
+									<div class="credit_bet_descr">максимальная сумма</div>
+									<div class="credit_bet">до <span>11 000</span>₴</div>
+									
+								</div>
+							</div>
+							<div class="stats">
+								<div class="credit_stats">
+									<div><img src="/img/timer.svg" alt="">15 мин.</div>
+									<div><img src="/img/credicard.svg" alt="">На карту</div>
+								</div>
+								<div class="credit_stats">
+									<div><img src="/img/star.svg" alt="">4.0 / 5</div>
+									<div><span>2 227</span> заказа</div>
+								</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
+								
+							</div>
+							<div class="get_credit_button">
+								<span>Подать заявку</span>
+							</div>
+						</div>
+					</a>
+					<a rel="nofollow noopener noreferrer" target="_blank" class="" href="https://go.salesdoubler.net/in/offer/1509?aid=63223">
+						<div id="toCheckButton" class="creditOffer">
+							<div class="logo_and_desc">
+								<div class="credit_image"><img src="/img/alexcredit.png" alt=""></div>
+								<h2 class="credit_descr">Кредит онлайн от AlexCredit</h2>
+								<h2 class="credit_descr green_credit">Первый кредит под 0%</h2>
+							</div>
+							<div class="details_wrap">
+								<div class="details">
+									<div class="credit_bet_descr">ставка в день</div>
+									<div class="credit_bet">от <span>0,01</span>%</div>
+									
+								</div>
+								<div class="details">
+									<div class="credit_bet_descr">максимальная сумма</div>
+									<div class="credit_bet">до <span>5 000</span>₴</div>
+									
+								</div>
+							</div>
+							<div class="stats">
+								<div class="credit_stats">
+									<div><img src="/img/timer.svg" alt="">15 мин.</div>
+									<div><img src="/img/credicard.svg" alt="">На карту</div>
+								</div>
+								<div class="credit_stats">
+									<div><img src="/img/star.svg" alt="">4.0 / 5</div>
+									<div><span>648</span> заказа</div>
+								</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Приведи друга — получи 100 грн.</div>
+							</div>
+							<div class="get_credit_button">
+								<span>Подать заявку</span>
+							</div>
+						</div>
+					</a>
+					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/1844?aid=63223">
+						<div class="creditOffer">
+							<div class="logo_and_desc">
+								<div class="credit_image"><img src="/img/creditplus.png" alt=""></div>
+								<h2 class="credit_descr">Кредит онлайн от Creditplus</h2>
+								<h2 class="credit_descr green_credit">онлайн кредит на карту от 0,01%</h2>
+							</div>
+							<div class="details_wrap">
+								<div class="details">
+									<div class="credit_bet_descr">ставка в день</div>
+									<div class="credit_bet">от <span>0,01</span>%</div>
+									
+								</div>
+								<div class="details">
+									<div class="credit_bet_descr">максимальная сумма</div>
+									<div class="credit_bet">до <span>10 000</span>₴</div>
+									
+								</div>
+							</div>
+							<div class="stats">
+								<div class="credit_stats">
+									<div><img src="/img/timer.svg" alt="">10 мин.</div>
+									<div><img src="/img/credicard.svg" alt="">На карту</div>
+								</div>
+								<div class="credit_stats">
+									<div><img src="/img/star.svg" alt="">4.0 / 5</div>
+									<div><span>2 876</span> заказа</div>
+								</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Приведи друга — получи 300 грн.</div>
+							</div>
+							<div class="get_credit_button">
+								<span>Подать заявку</span>
+							</div>
+						</div>
+					</a>
+					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/1276?aid=63223">
+						<div class="creditOffer ">
+							<div class="logo_and_desc">
+								<div class="credit_image"><img src="/img/euro-groshi.png" alt=""></div>
+								<h2 class="credit_descr">Кредит онлайн от EuroGroshi</h2>
+								<h2 class="credit_descr green_credit">Получите до 3000 грн со 100% * скидкой на свой первый кредит!</h2>
+							</div>
+							<div class="details_wrap">
+								<div class="details">
+									<div class="credit_bet_descr">ставка в день</div>
+									<div class="credit_bet">от <span>0</span>%</div>
+									
+								</div>
+								<div class="details">
+									<div class="credit_bet_descr">максимальная сумма</div>
+									<div class="credit_bet">до <span>11 000</span>₴</div>
+									
+								</div>
+							</div>
+							<div class="stats">
+								<div class="credit_stats">
+									<div><img src="/img/timer.svg" alt="">15 мин.</div>
+									<div><img src="/img/credicard.svg" alt="">На карту</div>
+								</div>
+								<div class="credit_stats">
+									<div><img src="/img/star.svg" alt="">4.0 / 5</div>
+									<div><span>2 227</span> заказа</div>
+								</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
+								
+							</div>
+							<div class="get_credit_button">
+								<span>Подать заявку</span>
+							</div>
+						</div>
+					</a>
+					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/1436?aid=63223">
+						<div class="creditOffer">
+							<div class="logo_and_desc">
+								<div class="credit_image"><img src="/img/miloan.svg" alt=""></div>
+								<h2 class="credit_descr">Кредит онлайн от Miloan</h2>
+								<h2 class="credit_descr green_credit">Первый кредит под 0%</h2>
+							</div>
+							<div class="details_wrap">
+								<div class="details">
+									<div class="credit_bet_descr">ставка в день</div>
+									<div class="credit_bet">от <span>0</span>%</div>
+									
+								</div>
+								<div class="details">
+									<div class="credit_bet_descr">максимальная сумма</div>
+									<div class="credit_bet">до <span>15 000</span>₴</div>
+									
+								</div>
+							</div>
+							<div class="stats">
+								<div class="credit_stats">
+									<div><img src="/img/timer.svg" alt="">15 мин.</div>
+									<div><img src="/img/credicard.svg" alt="">На карту</div>
+								</div>
+								<div class="credit_stats">
+									<div><img src="/img/star.svg" alt="">4.0 / 5</div>
+									<div><span>2 227</span> заказа</div>
+								</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Приведи друга — получи 100 грн.</div>
+							</div>
+							<div class="get_credit_button">
+								<span>Подать заявку</span>
+							</div>
+						</div>
+					</a>
+					<!-- <a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/2433?aid=63223">
+						<div class="creditOffer">
+							<div class="logo_and_desc">
+								<div class="credit_image"><img src="/img/mistercash.svg" alt=""></div>
+								<h2 class="credit_descr">Кредит онлайн от Mistercash</h2>
+								<h2 class="credit_descr green_credit">Первый кредит под 0%</h2>
+							</div>
+							<div class="details_wrap">
+								<div class="details">
+									<div class="credit_bet_descr">ставка в день</div>
+									<div class="credit_bet">от <span>0</span>%</div>
+									
+								</div>
+								<div class="details">
+									<div class="credit_bet_descr">максимальная сумма</div>
+									<div class="credit_bet">до <span>8 000</span>₴</div>
+									
+								</div>
+							</div>
+							<div class="stats">
+								<div class="credit_stats">
+									<div><img src="/img/timer.svg" alt="">10 мин.</div>
+									<div><img src="/img/credicard.svg" alt="">На карту</div>
+								</div>
+								<div class="credit_stats">
+									<div><img src="/img/star.svg" alt="">3.8 / 5</div>
+									<div><span>2 227</span> заказа</div>
+								</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Приведи друга — получи 100 грн.</div>
+							</div>
+							<div class="get_credit_button">
+								<span>Подать заявку</span>
+							</div>
+						</div>
+					</a> -->
+					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/2632?aid=63223">
+						<div class="creditOffer">
+							<div class="logo_and_desc">
+								<div class="credit_image"><img src="/img/creditbox.png" alt=""></div>
+								<h2 class="credit_descr">Кредит онлайн от Creditbox</h2>
+								<h2 class="credit_descr green_credit">Первый кредит под 0%</h2>
+							</div>
+							<div class="details_wrap">
+								<div class="details">
+									<div class="credit_bet_descr">ставка в день</div>
+									<div class="credit_bet">от <span>0</span>%</div>
+									
+								</div>
+								<div class="details">
+									<div class="credit_bet_descr">максимальная сумма</div>
+									<div class="credit_bet">до <span>8 000</span>₴</div>
+									
+								</div>
+							</div>
+							<div class="stats">
+								<div class="credit_stats">
+									<div><img src="/img/timer.svg" alt="">10 мин.</div>
+									<div><img src="/img/credicard.svg" alt="">На карту</div>
+								</div>
+								<div class="credit_stats">
+									<div><img src="/img/star.svg" alt="">3.8 / 5</div>
+									<div><span>2 227</span> заказа</div>
+								</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Приведи друга — получи 100 грн.</div>
+							</div>
+							<div class="get_credit_button">
+								<span>Подать заявку</span>
+							</div>
+						</div>
+					</a>
+					<!-- <a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/1727?aid=63223">
+						<div class="creditOffer">
 							<div class="logo_and_desc">
 								<div class="credit_image"><img src="/img/cashberry.jpg" alt=""></div>
 								<h2 class="credit_descr">Кредит онлайн от Cashberry</h2>
+								<h2 class="credit_descr green_credit">Первый кредит под 0%</h2>
+							</div>
+							<div class="details_wrap">
+								<div class="details">
+									<div class="credit_bet_descr">ставка в день</div>
+									<div class="credit_bet">от <span>0</span>%</div>
+									
+								</div>
+								<div class="details">
+									<div class="credit_bet_descr">максимальная сумма</div>
+									<div class="credit_bet">до <span>8 000</span>₴</div>
+									
+								</div>
+							</div>
+							<div class="stats">
+								<div class="credit_stats">
+									<div><img src="/img/timer.svg" alt="">2 мин.</div>
+									<div><img src="/img/credicard.svg" alt="">На карту</div>
+								</div>
+								<div class="credit_stats">
+									<div><img src="/img/star.svg" alt="">4.0 / 5</div>
+									<div><span>2 227</span> заказа</div>
+								</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Приведи друга — получи 100 грн.</div>
+							</div>
+							<div class="get_credit_button">
+								<span>Подать заявку</span>
+							</div>
+						</div>
+					</a> -->
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					<!-- <a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/2507?aid=63223">
+						<div class="creditOffer ">
+							<div class="logo_and_desc">
+								<div class="credit_image"><img src="/img/kf.svg" alt=""></div>
+								<h2 class="credit_descr">Кредит онлайн от KF</h2>
 								<h2 class="credit_descr green_credit">Первый кредит до 8 000 гривен под 0,01% в день</h2>
 							</div>
 							<div class="details_wrap">
@@ -501,7 +780,7 @@
 								</div>
 								<div class="details">
 									<div class="credit_bet_descr">максимальная сумма</div>
-									<div class="credit_bet">до <span>20 000</span>₴</div>
+									<div class="credit_bet">до <span>8 000</span>₴</div>
 									
 								</div>
 							</div>
@@ -521,8 +800,273 @@
 								<span>Подать заявку</span>
 							</div>
 						</div>
+					</a>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/1338?aid=63223">
+						<div class="creditOffer">
+							<div class="logo_and_desc">
+								<div class="credit_image"><img src="/img/soscredit.svg" alt=""></div>
+								<h2 class="credit_descr">Кредит онлайн от Soscredit</h2>
+								<h2 class="credit_descr green_credit">Получите до 3000 грн со 100% * скидкой на свой первый кредит!</h2>
+							</div>
+							<div class="details_wrap">
+								<div class="details">
+									<div class="credit_bet_descr">ставка в день</div>
+									<div class="credit_bet">от <span>0</span>%</div>
+									
+								</div>
+								<div class="details">
+									<div class="credit_bet_descr">максимальная сумма</div>
+									<div class="credit_bet">до <span>5 000</span>₴</div>
+									
+								</div>
+							</div>
+							<div class="stats">
+								<div class="credit_stats">
+									<div><img src="/img/timer.svg" alt="">15 мин.</div>
+									<div><img src="/img/credicard.svg" alt="">На карту</div>
+								</div>
+								<div class="credit_stats">
+									<div><img src="/img/star.svg" alt="">4.0 / 5</div>
+									<div><span>2 227</span> заказа</div>
+								</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
+								
+							</div>
+							<div class="get_credit_button">
+								<span>Подать заявку</span>
+							</div>
+						</div>
+					</a>
+					
+					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/2187?aid=63223">
+						<div class="creditOffer ">
+							<div class="logo_and_desc">
+								<div class="credit_image"><img src="/img/e-cash.png" alt=""></div>
+								<h2 class="credit_descr">Кредит онлайн от E-Cash</h2>
+								<h2 class="credit_descr green_credit">Получите до 3000 грн со 100% * скидкой на свой первый кредит!</h2>
+							</div>
+							<div class="details_wrap">
+								<div class="details">
+									<div class="credit_bet_descr">ставка в день</div>
+									<div class="credit_bet">от <span>0</span>%</div>
+									
+								</div>
+								<div class="details">
+									<div class="credit_bet_descr">максимальная сумма</div>
+									<div class="credit_bet">до <span>10 000</span>₴</div>
+									
+								</div>
+							</div>
+							<div class="stats">
+								<div class="credit_stats">
+									<div><img src="/img/timer.svg" alt="">10 мин.</div>
+									<div><img src="/img/credicard.svg" alt="">На карту</div>
+								</div>
+								<div class="credit_stats">
+									<div><img src="/img/star.svg" alt="">4.0 / 5</div>
+									<div><span>1 971</span> заказа</div>
+								</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
+								
+							</div>
+							<div class="get_credit_button">
+								<span>Подать заявку</span>
+							</div>
+						</div>
 					</a> -->
-					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/1985?aid=63223">
+					<!-- 
+					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/1411?aid=63223">
+						<div class="creditOffer ">
+							<div class="logo_and_desc">
+								<div class="credit_image"><img src="/img/gotivochka.svg" alt=""></div>
+								<h2 class="credit_descr">Кредит онлайн от Ваша готівочка</h2>
+								<h2 class="credit_descr green_credit">Получите до 3000 грн со 100% * скидкой на свой первый кредит!</h2>
+							</div>
+							<div class="details_wrap">
+								<div class="details">
+									<div class="credit_bet_descr">ставка в день</div>
+									<div class="credit_bet">от <span>0</span>%</div>
+									
+								</div>
+								<div class="details">
+									<div class="credit_bet_descr">максимальная сумма</div>
+									<div class="credit_bet">до <span>10 000</span>₴</div>
+									
+								</div>
+							</div>
+							<div class="stats">
+								<div class="credit_stats">
+									<div><img src="/img/timer.svg" alt="">15 мин.</div>
+									<div><img src="/img/credicard.svg" alt="">На карту</div>
+								</div>
+								<div class="credit_stats">
+									<div><img src="/img/star.svg" alt="">4.0 / 5</div>
+									<div><span>2 227</span> заказа</div>
+								</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
+								
+							</div>
+							<div class="get_credit_button">
+								<span>Подать заявку</span>
+							</div>
+						</div>
+					</a> -->
+					<!-- 
+					
+					
+					
+					
+					
+					
+					
+					
+					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/1200?aid=63223">
+						<div class="creditOffer">
+							<div class="logo_and_desc">
+								<div class="credit_image"><img src="/img/globalcredit.jpg" alt=""></div>
+								<h2 class="credit_descr">Кредит онлайн от Global Credit</h2>
+								<h2 class="credit_descr green_credit">онлайн кредит на карту от 0,01%</h2>
+							</div>
+							<div class="details_wrap">
+								<div class="details">
+									<div class="credit_bet_descr">ставка в день</div>
+									<div class="credit_bet">от <span>0,01</span>%</div>
+									
+								</div>
+								<div class="details">
+									<div class="credit_bet_descr">максимальная сумма</div>
+									<div class="credit_bet">до <span>7 000</span>₴</div>
+									
+								</div>
+							</div>
+							<div class="stats">
+								<div class="credit_stats">
+									<div><img src="/img/timer.svg" alt="">10 мин.</div>
+									<div><img src="/img/credicard.svg" alt="">На карту</div>
+								</div>
+								<div class="credit_stats">
+									<div><img src="/img/star.svg" alt="">4.0 / 5</div>
+									<div><span>2 876</span> заказа</div>
+								</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Приведи друга — получи 300 грн.</div>
+							</div>
+							<div class="get_credit_button">
+								<span>Подать заявку</span>
+							</div>
+						</div>
+					</a>
+					
+					
+					<a rel="nofollow noopener noreferrer" target="_blank" href="https://go.salesdoubler.net/in/offer/250?aid=63223">
+						<div class="creditOffer">
+							<div class="logo_and_desc">
+								<div class="credit_image"><img src="/img/moneyveo.svg" alt=""></div>
+								<h2 class="credit_descr">Кредит онлайн от MoneyVeo</h2>
+								<h2 class="credit_descr green_credit">Первый кредит под 0%</h2>
+							</div>
+							<div class="details_wrap">
+								<div class="details">
+									<div class="credit_bet_descr">ставка в день</div>
+									<div class="credit_bet">от <span>0</span>%</div>
+									
+								</div>
+								<div class="details">
+									<div class="credit_bet_descr">максимальная сумма</div>
+									<div class="credit_bet">до <span>20 000</span>₴</div>
+									
+								</div>
+							</div>
+							<div class="stats">
+								<div class="credit_stats">
+									<div><img src="/img/timer.svg" alt="">2 мин.</div>
+									<div><img src="/img/credicard.svg" alt="">На карту</div>
+								</div>
+								<div class="credit_stats">
+									<div><img src="/img/star.svg" alt="">4.0 / 5</div>
+									<div><span>2 227</span> заказа</div>
+								</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Приведи друга — получи 100 грн.</div>
+							</div>
+							<div class="get_credit_button">
+								<span>Подать заявку</span>
+							</div>
+						</div>
+					</a> -->
+					<!-- 
+					
+					
+					
+					
+					
+					
+					
+					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/2219?aid=63223">
+						<div class="creditOffer ">
+							<div class="logo_and_desc">
+								<div class="credit_image"><img src="/img/creditlite.png" alt=""></div>
+								<h2 class="credit_descr">Кредит онлайн от CreditLite</h2>
+								<h2 class="credit_descr green_credit">Получите до 3000 грн со 100% * скидкой на свой первый кредит!</h2>
+							</div>
+							<div class="details_wrap">
+								<div class="details">
+									<div class="credit_bet_descr">ставка в день</div>
+									<div class="credit_bet">от <span>0</span>%</div>
+									
+								</div>
+								<div class="details">
+									<div class="credit_bet_descr">максимальная сумма</div>
+									<div class="credit_bet">до <span>8 000</span>₴</div>
+									
+								</div>
+							</div>
+							<div class="stats">
+								<div class="credit_stats">
+									<div><img src="/img/timer.svg" alt="">15 мин.</div>
+									<div><img src="/img/credicard.svg" alt="">На карту</div>
+								</div>
+								<div class="credit_stats">
+									<div><img src="/img/star.svg" alt="">4.0 / 5</div>
+									<div><span>2 227</span> заказа</div>
+								</div>
+								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
+								
+							</div>
+							<div class="get_credit_button">
+								<span>Подать заявку</span>
+							</div>
+						</div>
+					</a>
+					
+					 -->
+					
+					
+					
+					<!-- 
+					
+					 -->
+					
+					
+					
+					
+					
+					<!-- <a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/1985?aid=63223">
 						<div class="creditOffer">
 							<div class="logo_and_desc">
 								<div class="credit_image"><img src="/img/Groshik_1.png" alt=""></div>
@@ -557,7 +1101,28 @@
 								<span>Подать заявку</span>
 							</div>
 						</div>
-					</a>
+					</a> -->
+					<!--  -->
+					
+					
+					
+					
+					<!--  -->
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					<!-- 
+					 -->
+					<!--  -->
+					
 					
 					
 					
@@ -598,118 +1163,13 @@
 							</div>
 						</div>
 					</a>
-					<a rel="nofollow noopener noreferrer" target="_blank" href="https://go.salesdoubler.net/in/offer/250?aid=63223">
-						<div class="creditOffer">
-							<div class="logo_and_desc">
-								<div class="credit_image"><img src="/img/moneyveo.svg" alt=""></div>
-								<h2 class="credit_descr">Кредит онлайн от MoneyVeo</h2>
-								<h2 class="credit_descr green_credit">Первый кредит под 0%</h2>
-							</div>
-							<div class="details_wrap">
-								<div class="details">
-									<div class="credit_bet_descr">ставка в день</div>
-									<div class="credit_bet">от <span>0</span>%</div>
-									
-								</div>
-								<div class="details">
-									<div class="credit_bet_descr">максимальная сумма</div>
-									<div class="credit_bet">до <span>20 000</span>₴</div>
-									
-								</div>
-							</div>
-							<div class="stats">
-								<div class="credit_stats">
-									<div><img src="/img/timer.svg" alt="">2 мин.</div>
-									<div><img src="/img/credicard.svg" alt="">На карту</div>
-								</div>
-								<div class="credit_stats">
-									<div><img src="/img/star.svg" alt="">4.0 / 5</div>
-									<div><span>2 227</span> заказа</div>
-								</div>
-								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
-								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Приведи друга — получи 100 грн.</div>
-							</div>
-							<div class="get_credit_button">
-								<span>Подать заявку</span>
-							</div>
-						</div>
-					</a>
 					
 					
 					
-					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/1272?aid=63223">
-						<div class="creditOffer ">
-							<div class="logo_and_desc">
-								<div class="credit_image"><img src="/img/schvidko.jpeg" alt=""></div>
-								<h2 class="credit_descr">Кредит онлайн от Швидко Гроші</h2>
-								<h2 class="credit_descr green_credit">Получите до 3000 грн со 100% * скидкой на свой первый кредит!</h2>
-							</div>
-							<div class="details_wrap">
-								<div class="details">
-									<div class="credit_bet_descr">ставка в день</div>
-									<div class="credit_bet">от <span>0</span>%</div>
-									
-								</div>
-								<div class="details">
-									<div class="credit_bet_descr">максимальная сумма</div>
-									<div class="credit_bet">до <span>10 000</span>₴</div>
-									
-								</div>
-							</div>
-							<div class="stats">
-								<div class="credit_stats">
-									<div><img src="/img/timer.svg" alt="">15 мин.</div>
-									<div><img src="/img/credicard.svg" alt="">На карту</div>
-								</div>
-								<div class="credit_stats">
-									<div><img src="/img/star.svg" alt="">4.0 / 5</div>
-									<div><span>2 227</span> заказа</div>
-								</div>
-								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
-								
-							</div>
-							<div class="get_credit_button">
-								<span>Подать заявку</span>
-							</div>
-						</div>
-					</a>
 					
-					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/1436?aid=63223">
-						<div class="creditOffer">
-							<div class="logo_and_desc">
-								<div class="credit_image"><img src="/img/miloan.svg" alt=""></div>
-								<h2 class="credit_descr">Кредит онлайн от Miloan</h2>
-								<h2 class="credit_descr green_credit">Первый кредит под 0%</h2>
-							</div>
-							<div class="details_wrap">
-								<div class="details">
-									<div class="credit_bet_descr">ставка в день</div>
-									<div class="credit_bet">от <span>0</span>%</div>
-									
-								</div>
-								<div class="details">
-									<div class="credit_bet_descr">максимальная сумма</div>
-									<div class="credit_bet">до <span>15 000</span>₴</div>
-									
-								</div>
-							</div>
-							<div class="stats">
-								<div class="credit_stats">
-									<div><img src="/img/timer.svg" alt="">15 мин.</div>
-									<div><img src="/img/credicard.svg" alt="">На карту</div>
-								</div>
-								<div class="credit_stats">
-									<div><img src="/img/star.svg" alt="">4.0 / 5</div>
-									<div><span>2 227</span> заказа</div>
-								</div>
-								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
-								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Приведи друга — получи 100 грн.</div>
-							</div>
-							<div class="get_credit_button">
-								<span>Подать заявку</span>
-							</div>
-						</div>
-					</a>
+					
+					
+					
 					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/1704?aid=63223">
 						<div class="creditOffer ">
 							<div class="logo_and_desc">
@@ -746,42 +1206,7 @@
 							</div>
 						</div>
 					</a>
-					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/1711?aid=63223">
-						<div class="creditOffer ">
-							<div class="logo_and_desc">
-								<div class="credit_image"><img src="/img/e-groshi.png" alt=""></div>
-								<h2 class="credit_descr">Кредит онлайн от E-groshi</h2>
-								<h2 class="credit_descr green_credit">Первый кредит до 8 000 гривен под 0,01% в день</h2>
-							</div>
-							<div class="details_wrap">
-								<div class="details">
-									<div class="credit_bet_descr">ставка в день</div>
-									<div class="credit_bet">від <span>0,01</span>%</div>
-									
-								</div>
-								<div class="details">
-									<div class="credit_bet_descr">максимальная сумма</div>
-									<div class="credit_bet">до <span>20 000</span>₴</div>
-									
-								</div>
-							</div>
-							<div class="stats">
-								<div class="credit_stats">
-									<div><img src="/img/timer.svg" alt="">Мгновенно</div>
-									<div><img src="/img/credicard.svg" alt="">На карту</div>
-								</div>
-								<div class="credit_stats">
-									<div><img src="/img/star.svg" alt="">4.5 / 5</div>
-									<div><span>2 001</span> заказа</div>
-								</div>
-								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Круглосуточно</div>
-								<div class="credit_stats_benefit"><img src="/img/ok.svg" alt="">Играй как Красава</div>
-							</div>
-							<div class="get_credit_button">
-								<span>Подать заявку</span>
-							</div>
-						</div>
-					</a>
+					
 					<a rel="nofollow noopener noreferrer" class="" target="_blank" href="https://go.salesdoubler.net/in/offer/1712?aid=63223">
 						<div class="creditOffer">
 							<div class="logo_and_desc">
@@ -829,7 +1254,7 @@
 			</div>
 		</footer>
 		<a href="http://bit.ly/2HlaV3m" target="_blank" class="viber_chat"></a>
-		<a href="http://telegram.me/PrivatCreditbot" class="telegram_chat" target="_blank"></a>
+		
 		<script src="/js/jquery-3.1.1.js"></script>
 		<script src="/js/modal.js"></script>
 		<?php include_once($_SERVER["DOCUMENT_ROOT"]) .'/modals/modal-creditonline.php' ?>

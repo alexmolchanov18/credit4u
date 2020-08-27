@@ -28,52 +28,59 @@ class Autorotator
         
         $this->_url = $url;
         $this->_offers = $offers;
+        $this->_remoteOffers = $offers;
         $this->_idSettings = $idSettings;
         
         $this->sendRequest();
     } // end __construct
+
+    public function getRemoteOffers()
+    {
+        return $this->_remoteOffers;
+    }
     
     public function sendRequest()
     {
         $idStatistics = $this->_getStatisticsID();
-        
+
         if (!$idStatistics) {
             return false;
         }
-        
+
         $url = sprintf($this->_url, $this->_idSettings, $idStatistics);
-        
+
         $data = array(
             'offers' => $this->_offers
         );
+
         $query = http_build_query($data);
         $url .="?".$query;
-        
+
         $opts = array(
             'http' => array(
                 'method'  => 'GET',
                 'header'  => 'Access-Token: '.static::API_TOKEN
             )
         );
-        
+
         $context = stream_context_create($opts);
-        
+
         $result = file_get_contents($url, false, $context);
-        
+
         if (!$result) {
             return null;
         }
-        
+
         $resultData = json_decode($result, true);
-        
+
         if (empty($resultData['offers'])) {
             return null;
         }
-        
+
         $offers = $resultData['offers'];
 
         $this->_remoteOffers = $offers;
-        
+
         return $offers;
     } // end sendRequest
     
